@@ -1,0 +1,19 @@
+nav{
+    position: sticky;
+    top:0;
+}
+
+nav div{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul li{
+    padding-right: 5em;
+}
